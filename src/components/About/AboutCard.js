@@ -8,33 +8,30 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
+            I grew up in <b className="purple">Portland, Oregon</b>, and I love the outdoors. I particularly enjoy skipping rocks.
             <br />
-            I am currently employed as a software developer at Juspay.
+            <br/>
+            <b className="purple">Swimming and jumping</b> in rivers is one of my favorite things. 
+            I once did a flip off of a 40 foot jump, but I am far too scared to ever try that again.
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            <br/>
+            I also love <b className="purple">hiking and birdwatching</b>. Pinnacles National Park is the perfect place to do both of those things, 
+            and it is where a California Condor flew just 10 feet above my head.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            I'm also kind of a nerd. I play the modern game of Magic the Gathering, 
+            and the ancient game of Go, and I love geeking out about <b className="purple">game design</b> and rules interactions.
+            <br/>
+            <br/>
+            I studied <b className="purple">Mandarin</b> for four years in high school, and I can still carry a decent conversation.
+            <br/>
+            <br/>
+            I was a <b className="purple">competitive swimmer</b> in high school. My best events were the 100 and 200 free, as well as 100 fly. I set multiple team records.
+            As a senior in high school, I set up a mentorship program to help connect the team's younger swimmers with high school aged swimmers.
+            <br/>
+            <br/>
+            I have an adorable pet <b className="purple">Ball Python</b> named George. He sometimes gets a bath!
           </p>
-          <ul>
-            <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Travelling
-            </li>
-          </ul>
-
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
-          </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
         </blockquote>
       </Card.Body>
     </Card>
