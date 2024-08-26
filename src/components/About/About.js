@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
-import Github from "./Github";
+
 
 import Aboutcard from "./AboutCard";
 import swimming from "../../Assets/swimming.JPG";
@@ -41,7 +41,6 @@ function About() {
         </Row>
         
 
-        <Github />
       </Container>
     </Container>
   );
