@@ -10,7 +10,7 @@ function AboutCard() {
             I grew up in <b className="purple">Portland, Oregon</b>, and I love the outdoors. I particularly enjoy skipping rocks.
             <br />
             <br/>
-            <b className="purple">Swimming and jumping</b> in rivers is one of my favorite things. 
+            <b className="purple">Swimming and jumping</b> in rivers are some of my favorite things. 
             I once did a flip off of a 40 foot jump, but I am far too scared to ever try that again.
             <br />
             <br/>
